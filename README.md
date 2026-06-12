@@ -1,4 +1,4 @@
-# CHaser-Client
+# CHaser-Client-Improvement
 改良版のcheserとmap生成用のジェネレータです
 U16プログラミングコンテストやproconなどの開発時に活用してください
 サーバーソフトウェア
