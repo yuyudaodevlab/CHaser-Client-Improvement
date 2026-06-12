@@ -45,9 +45,11 @@ H:プレイヤーのHot位置x,プレイヤーのHot位置y
 
 ### 画像
 サーバーソフト標準のランダムツール
+
 ![https://github.com/yuyudaodevlab/CHeser-Client/blob/main/map-before.png](https://github.com/yuyudaodevlab/CHaser-Client-Improvement/blob/main/map-after.png)
 
 本ツールを使用し、ブロック数20 アイテム数20で出力した場合
+
 ![https://github.com/yuyudaodevlab/CHeser-Client/blob/main/map-after.png](https://github.com/yuyudaodevlab/CHaser-Client-Improvement/blob/main/map-before.png)
 
 ## CHaser.py
